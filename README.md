@@ -25,7 +25,7 @@ Instance Build 17/07/20
 
 1. Télécharger et Installer Ubuntu Server 2004 sur votre serveur ou votre PC / Download and Install Ubuntu Server 2004 on your server or your computer.
 
-2. `https://github.com/ElPenguin/Nextcloud19.0.1OnUbuntu2004.git`
+2. `git clone https://github.com/ElPenguin/Nextcloud19.0.1OnUbuntu2004.git`
 
 3. `cd ./BashScriptNextcloud19.0.1UbuntuServer2004`.
 
